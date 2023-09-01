@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mathias.
-- 🌱 I’m currently lerning python.
+- 🌱 I’m currently studying java development on JU.
 - 📫 you can reach me on my email:
-mathiasbrynolf20@gmail.com
+    mathiasbrynolf20@gmail.com
 
 <!---
 brycom/brycom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
