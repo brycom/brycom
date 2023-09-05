@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mathias.
-- 🌱 I’m currently studying java development on JU.
+- 🌱 I’m currently studying java development at JU.
 - 📫 you can reach me on my email:
     mathiasbrynolf20@gmail.com
 
